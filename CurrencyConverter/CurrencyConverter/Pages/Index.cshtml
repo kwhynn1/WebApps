@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+      
+  
+    <label>From <br />GBP : </label>
+    <input type="number" asp-for="GBP"/>
+
+    <label>To <br />EUR : </label>
+    <input type="number" asp-for="EUR" id="value"/>
+
+    <input type="submit"/>
+
+    <p> @ViewData["Convert"]</p>
+
+</form>
