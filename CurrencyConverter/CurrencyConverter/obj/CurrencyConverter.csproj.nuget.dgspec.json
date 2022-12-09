@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {}
+    "C:\\Users\\Afro\\Downloads\\WebApps-main\\WebApps-main\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {
+    "C:\\Users\\Afro\\Downloads\\WebApps-main\\WebApps-main\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectUniqueName": "C:\\Users\\Afro\\Downloads\\WebApps-main\\WebApps-main\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
         "projectName": "CurrencyConverter",
-        "projectPath": "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectPath": "C:\\Users\\Afro\\Downloads\\WebApps-main\\WebApps-main\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
         "packagesPath": "C:\\Users\\Afro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\CurrencyConverter\\CurrencyConverter\\obj\\",
+        "outputPath": "C:\\Users\\Afro\\Downloads\\WebApps-main\\WebApps-main\\CurrencyConverter\\CurrencyConverter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Afro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

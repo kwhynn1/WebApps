@@ -9,10 +9,10 @@ namespace CurrencyConverter.Pages
         private readonly ILogger<IndexModel> _logger;
 
         [BindProperty]
-        public double GBP { get; set; }
+        public double JMD { get; set; }
 
         [BindProperty]
-        public double EUR { get; set; }
+        public double USD { get; set; }
 
         public IndexModel(ILogger<IndexModel> logger)
         {
@@ -21,19 +21,19 @@ namespace CurrencyConverter.Pages
 
         public void OnGet()
         {
-            EUR = 1.16;
-            GBP = 1.0;
+            USD = 1.16;
+            JMD = 1.0;
         }
 
         public void OnPost()
         {
-            if (GBP == 1.0) 
+            if (JMD == 1.0) 
             {
-                ViewData["Convert"] = "The Converted Amount Is " + EUR;
+                ViewData["Convert"] = "The converted amount is $" + USD + " in USD";
             }
             else
             {
-                ViewData["Convert"] = "The Converted Amount Is " + GBP * EUR;
+                ViewData["Convert"] = "The converted amount is $" + JMD * USD + " in USD";
             }
 
         }
