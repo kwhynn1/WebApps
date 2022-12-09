@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mgSnBncDDr9uA4jI7EohYvnJZOuFwyzhFSUvwKiZUY2/JJwi0j5yuWYjjBAHtNh7V4jATzROzP1bdVLgO7Lyg==",
+  "dgSpecHash": "G7P99Yxq+UC8Qy4AMuA/n+2CRPLOnFjlQXbxHNZdiHlE9XBePzHK+8SBjDBKMrztt9aFDdUtI9dxrDjo4IFaqA==",
   "success": true,
-  "projectFilePath": "E:\\Uni\\CO550 Web Applications\\Logbook\\3\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\Afro\\Documents\\GitHub\\WebApps\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Afro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Afro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
